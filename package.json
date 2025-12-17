@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "ws": "^8.11.0"
+  },
+  "name": "geoguessr-locator",
+  "description": "Locate a Geoguessr Location.",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "author": "",
+  "license": "ISC"
+}
